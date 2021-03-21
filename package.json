@@ -1,0 +1,22 @@
+{
+  "name": "js-learning",
+  "version": "1.0.0",
+  "description": "JS Learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HilcaDev/jjs-learning.git"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "HilcaDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HilcaDev/jjs-learning/issues"
+  },
+  "homepage": "https://github.com/HilcaDev/jjs-learning#readme"
+}
