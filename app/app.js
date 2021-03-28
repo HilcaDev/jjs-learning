@@ -78,3 +78,4 @@ class MiClase {
 
 let objMiClase = new MiClase();
 objMiClase.miMetodo();
+
